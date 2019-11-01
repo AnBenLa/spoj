@@ -1,0 +1,259 @@
+++++++++++ ++++++++++ ++++
+[>
+Read first character to pos 1
+>>>>>>>,
+-------- -------- -------- -------- -------- --------
+Read second character and bring it to position 3 and 11
+>,
+-------- -------- -------- -------- -------- --------
+[
+ >+>>>>>>>>+<<<<<<<<<-
+]
+Read third character and bring it to position 5 13 and 21
+>>,
+-------- -------- -------- -------- -------- --------
+[
+ >+>>>>>>>>+>>>>>>>>+<<<<<<<<<<<<<<<<<-
+]
+Read fourth character and bring it to position 7 15 23 and 31
+>>,
+-------- -------- -------- -------- -------- --------
+[
+ >+>>>>>>>>+>>>>>>>>+>>>>>>>>+<<<<<<<<<<<<<<<<<<<<<<<<<-
+]
+Read fifth character and bring it to position 9 17 25 33 and 41
+>>,
+-------- -------- -------- -------- -------- --------
+[
+ >+>>>>>>>>+>>>>>>>>+>>>>>>>>+>>>>>>>>+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
+]
+Read sixth character and bring it to position 19 37 43 51 and 59
+>>>>>>>>>>,
+-------- -------- -------- -------- -------- --------
+[
+ >+>>>>>>>>+>>>>>>>>+>>>>>>>>+>>>>>>>>+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
+]
+Read seventh character and bring it to position 39 47 55 and 61
+>>>>>>>>>>,
+-------- -------- -------- -------- -------- --------
+[
+ >+>>>>>>>>+>>>>>>>>+>>>>>>>>+<<<<<<<<<<<<<<<<<<<<<<<<<-
+]
+Read eight character and bring it to position 49 57 and 63
+>>>>>>>>>>,
+-------- -------- -------- -------- -------- --------
+[
+ >+>>>>>>>>+>>>>>>>>+<<<<<<<<<<<<<<<<<-
+]
+Read ninth character and bring it to position 59 and 65
+>>>>>>>>>>,
+-------- -------- -------- -------- -------- --------
+[
+ >+>>>>>>>>+<<<<<<<<<-
+]
+Read tenth character and bring it to position 66
+>>>>>>>>>>>,
+-------- -------- -------- -------- -------- --------
+Read the empty line
+>,
+-------- -------- -------- --------
+Read the first substring character and write it to position 1 11 21 31 41 and 51
+>,
+-------- -------- -------- -------- -------- --------
+[
+ <<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-
+]
+Read the second substring character and write it to position 3 13 23 43 and 53
+>>,
+-------- -------- -------- -------- -------- --------
+[
+ <<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-
+]
+Read the third substring character and write it to position 5 15 25 45 and 55
+>>,
+-------- -------- -------- -------- -------- --------
+[
+ <<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-
+]
+Read the fourth substring character and write it to position 7 17 27 47 and 57
+>>,
+-------- -------- -------- -------- -------- --------
+[
+ <<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-
+]
+Read the fifth substring character and write it to position 9 19 29 49 and 59
+>>,
+-------- -------- -------- -------- -------- --------
+[
+ <<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+<<<<<<<<<<+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-
+]
+Bring the pointer back to the first cell
+<<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<< <<<< <
+
+
+xnor of cell 1 and 2 The result is saved in cell 0
+[-]+>[>-<-]>[<<->>[-]]
+xnor of cell 3 and 4 The result is saved in cell 1
+<[-]+>>[>-<-]>[<<<->>>[-]]
+xnor of cell 5 and 6 The result is saved in cell 2
+<<[-]+>>>[>-<-]>[<<<<->>>>[-]]
+xnor of cell 7 and 8 The result is saved in cell 3
+<<<[-]+>>>>[>-<-]>[<<<<<->>>>>[-]]
+xnor of cell 9 and 10 The result is saved in cell 4
+<<<<[-]+>>>>>[>-<-]>[<<<<<<->>>>>>[-]]
+
+xnor of cell 11 and 12 The result is saved in cell 10
+[-]+>[>-<-]>[<<->>[-]]
+xnor of cell 13 and 14 The result is saved in cell 11
+<[-]+>>[>-<-]>[<<<->>>[-]]
+xnor of cell 15 and 16 The result is saved in cell 12
+<<[-]+>>>[>-<-]>[<<<<->>>>[-]]
+xnor of cell 17 and 18 The result is saved in cell 13
+<<<[-]+>>>>[>-<-]>[<<<<<->>>>>[-]]
+xnor of cell 19 and 20 The result is saved in cell 14
+<<<<[-]+>>>>>[>-<-]>[<<<<<<->>>>>>[-]]
+
+xnor of cell 21 and 22 The result is saved in cell 20
+[-]+>[>-<-]>[<<->>[-]]
+xnor of cell 23 and 24 The result is saved in cell 21
+<[-]+>>[>-<-]>[<<<->>>[-]]
+xnor of cell 25 and 26 The result is saved in cell 22
+<<[-]+>>>[>-<-]>[<<<<->>>>[-]]
+xnor of cell 27 and 28 The result is saved in cell 23
+<<<[-]+>>>>[>-<-]>[<<<<<->>>>>[-]]
+xnor of cell 29 and 30 The result is saved in cell 24
+<<<<[-]+>>>>>[>-<-]>[<<<<<<->>>>>>[-]]
+
+xnor of cell 31 and 32 The result is saved in cell 30
+[-]+>[>-<-]>[<<->>[-]]
+xnor of cell 33 and 34 The result is saved in cell 31
+<[-]+>>[>-<-]>[<<<->>>[-]]
+xnor of cell 35 and 36 The result is saved in cell 32
+<<[-]+>>>[>-<-]>[<<<<->>>>[-]]
+xnor of cell 37 and 38 The result is saved in cell 33
+<<<[-]+>>>>[>-<-]>[<<<<<->>>>>[-]]
+xnor of cell 39 and 40 The result is saved in cell 34
+<<<<[-]+>>>>>[>-<-]>[<<<<<<->>>>>>[-]]
+
+xnor of cell 41 and 42 The result is saved in cell 40
+[-]+>[>-<-]>[<<->>[-]]
+xnor of cell 43 and 44 The result is saved in cell 41
+<[-]+>>[>-<-]>[<<<->>>[-]]
+xnor of cell 45 and 46 The result is saved in cell 42
+<<[-]+>>>[>-<-]>[<<<<->>>>[-]]
+xnor of cell 47 and 48 The result is saved in cell 43
+<<<[-]+>>>>[>-<-]>[<<<<<->>>>>[-]]
+xnor of cell 49 and 50 The result is saved in cell 44
+<<<<[-]+>>>>>[>-<-]>[<<<<<<->>>>>>[-]]
+
+xnor of cell 51 and 52 The result is saved in cell 50
+[-]+>[>-<-]>[<<->>[-]]
+xnor of cell 53 and 54 The result is saved in cell 51
+<[-]+>>[>-<-]>[<<<->>>[-]]
+xnor of cell 55 and 56 The result is saved in cell 52
+<<[-]+>>>[>-<-]>[<<<<->>>>[-]]
+xnor of cell 57 and 58 The result is saved in cell 53
+<<<[-]+>>>>[>-<-]>[<<<<<->>>>>[-]]
+xnor of cell 59 and 50 The result is saved in cell 54
+<<<<[-]>>>>>[>[<<<<<<+>>>>>>-]<-]>[-]
+
+Move the pointer to the first cell
+<<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <
+
+check if substring is identical with string 1
+[-]>[>[<<+>>-]<-]>[-]
+[-]>[>[<<+>>-]<-]>[-]
+<<<< <
+[-]>[>>[<<<+>>>-]<<-]>>[-]
+<<<<
+[-]>[>>>>>>[<<<<<<<+>>>>>>>-]<<<<<<-]>>>>>>[-]
+
+>>>>>
+
+check if substring is identical with string 2
+[-]>[>[<<+>>-]<-]>[-]
+[-]>[>[<<+>>-]<-]>[-]
+<<<< <
+[-]>[>>[<<<+>>>-]<<-]>>[-]
+<<<<
+[-]>[>>>>>>[<<<<<<<+>>>>>>>-]<<<<<<-]>>>>>>[-]
+
+>>>>>
+
+check if substring is identical with string 3
+[-]>[>[<<+>>-]<-]>[-]
+[-]>[>[<<+>>-]<-]>[-]
+<<<< <
+[-]>[>>[<<<+>>>-]<<-]>>[-]
+<<<<
+[-]>[>>>>>>[<<<<<<<+>>>>>>>-]<<<<<<-]>>>>>>[-]
+
+>>>>>
+
+check if substring is identical with string 4
+[-]>[>[<<+>>-]<-]>[-]
+[-]>[>[<<+>>-]<-]>[-]
+<<<< <
+[-]>[>>[<<<+>>>-]<<-]>>[-]
+<<<<
+[-]>[>>>>>>[<<<<<<<+>>>>>>>-]<<<<<<-]>>>>>>[-]
+
+>>>>>
+
+check if substring is identical with string 5
+[-]>[>[<<+>>-]<-]>[-]
+[-]>[>[<<+>>-]<-]>[-]
+<<<< <
+[-]>[>>[<<<+>>>-]<<-]>>[-]
+<<<<
+[-]>[>>>>>>[<<<<<<<+>>>>>>>-]<<<<<<-]>>>>>>[-]
+
+>>>>>
+
+check if substring is identical with string 6
+[-]>[>[<<+>>-]<-]>[-]
+[-]>[>[<<+>>-]<-]>[-]
+<<<< <
+[-]>[>>[<<<+>>>-]<<-]>>[-]
+<<<<
+[-]>[>>>>>>[<<<<<<<+>>>>>>>-]<<<<<<-]>>>>>>[-]
+
+move pointer to beginning
+<<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<< <<<<
+
+check if substring is identical with string 1 or string 2
+[-]>[>>>>>>>>>>+<<<<<<<<<<-]>>>>>>>>>>[[-]<<<<<<<<<< < + >>>>>>>>>> >]
+
+>>>>> >>>>
+
+check if substring is identical with string 3 or string 4
+[-]>[>>>>>>>>>>+<<<<<<<<<<-]>>>>>>>>>>[[-]<<<<<<<<<< < + >>>>>>>>>> >]
+
+>>>>> >>>>
+
+check if substring is identical with string 5 or string 6
+[-]>[>>>>>>>>>>+<<<<<<<<<<-]>>>>>>>>>>[[-]<<<<<<<<<< < + >>>>>>>>>> >]
+
+<<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<
+
+check if substring is identical with string 1 or 2 or 3 or 4
+[-]>[>>>>>>>>>> >>>>>>>>>>+<<<<<<<<<< <<<<<<<<<<-]>>>>>>>>>> >>>>>>>>>>[[-]<<<<<<<<<< <<<<<<<<<< < + >>>>>>>>>> >>>>>>>>>> >]
+
+<<<<<<<<<< <<<<<<<<<< <<
+
+check is substring is identical with string 1 or 2 or 3 or 4 or 5 or 6
+[-]>
+[>>>>>>>>>> >>>>>>>>>> >>>>>>>>>> >>>>>>>>>> > +<<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <-]
+>>>>>>>>>> >>>>>>>>>> >>>>>>>>>> >>>>>>>>>> >[[-]<<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< << + >>>>>>>>>> >>>>>>>>>> >>>>>>>>>> >>>>>>>>>> >>]
+
+Print the result to the console
+<<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<
+++++++++ ++++++++ ++++++++ ++++++++ ++++++++ ++++++++
+.
+,
+[-]
+++++++++++
+.
+[-]
+<-
+]

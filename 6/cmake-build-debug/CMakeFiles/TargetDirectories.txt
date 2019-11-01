@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Mortiferum/CLionProjects/spoj/6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Mortiferum/CLionProjects/spoj/6/cmake-build-debug/CMakeFiles/6.dir
+/cygdrive/c/Users/Mortiferum/CLionProjects/spoj/6/cmake-build-debug/CMakeFiles/edit_cache.dir

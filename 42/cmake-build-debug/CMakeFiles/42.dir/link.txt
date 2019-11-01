@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/42.dir/main.cpp.o  -o 42.exe -Wl,--out-implib,lib42.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
