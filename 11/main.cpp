@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/FCTRL/
 #include <iostream>
 
 using namespace std;

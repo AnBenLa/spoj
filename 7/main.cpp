@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/BULK/
 #include <iostream>
 #include <vector>
 #include <fstream>
@@ -65,6 +66,9 @@ bool intersect(segment_2d const& s, line_2d const& r){
     point a{s.a.x,s.a.y,1};
     point b{s.b.x,s.b.y,1};
 
+    double min_y = min(s.a.y, s.b.y);
+    double max_y = max(s.a.y, s.b.y);
+
     point l_ab = cross_p(a, b);
 
     point c{r.origin.x, r.origin.y, 1};
@@ -78,7 +82,7 @@ bool intersect(segment_2d const& s, line_2d const& r){
     if(inter.z != 0) {
         //if the intersection point is between the points of the segment returns true
         if (ori(s.a, point_2d{inter.x / inter.z, inter.y / inter.z}, s.b) == 0)
-            if(inter.x/inter.z >= r.origin.x)
+            if(inter.x/inter.z >= r.origin.x && inter.y/inter.z >= min_y && inter.y/inter.z <= max_y)
                 return true;
     }
     return false;
@@ -151,25 +155,25 @@ bool cut(face const& f, point const& p){
 }
 
 int main() {
-    ifstream inFile ("C:\\Users\\Mortiferum\\CLionProjects\\spoj\\7\\in.txt");
+    //ifstream inFile ("C:\\Users\\Mortiferum\\CLionProjects\\spoj\\7\\in.txt");
 
     int cases, faces, points_n, tmp;
-    inFile >> cases;
+    cin >> cases;
 
     for(int i = 0; i < cases; ++i){
         int min_x = -1, min_y = -1, min_z = -1, max_x = -1, max_y = -1, max_z = -1;
         int itt = 0;
-        inFile >> faces;
+        cin >> faces;
         vector<face> faces_v {};
         int units = 0;
         for(int k = 0; k < faces; ++k){
             face tmp_f;
-            inFile >> points_n;
+            cin >> points_n;
             vector<int> tmp_v {};
             for(int l = 0; l < points_n; ++l){
                 point p {};
                 for(int m = 0; m < 3; ++m) {
-                    inFile >> tmp;
+                    cin >> tmp;
 
                     if(m == 0)
                        p.x = tmp;
@@ -217,8 +221,6 @@ int main() {
                 for(int l = min_z; l < max_z; ++l){
                     //check if point at (j,k,l) is inside
                     int cuts = 0;
-                    if(j == 15 && k == 15 && l == 15)
-                        cout << "Test" << endl;
                     for(const auto & o : faces_v){
                         point p{j + 0.5f,k + 0.5f,l + 0.5f};
                         //check how many faces ray (1,0,0) cuts starting from point (j,k,l)
@@ -229,14 +231,12 @@ int main() {
                     itt += 1;
                     if(cuts % 2 == 1) {
                         units += 1;
-                    } else {
-                        cout << "error";
                     }
                 }
             }
         }
 
-        cout << "The bulk is composed of " << units << " units. " << itt <<endl;
+        cout << "The bulk is composed of " << units << " units." <<endl;
     }
 
     return 0;

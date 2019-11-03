@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/PALIN/
 #include <iostream>
 #include <vector>
 

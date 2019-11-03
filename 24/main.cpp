@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/FCTRL2/
 #include <iostream>
 #include <vector>
 #include <algorithm>

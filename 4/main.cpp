@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/ONP/
 #include <iostream>
 #include <string>
 

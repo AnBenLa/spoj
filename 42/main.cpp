@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/ADDREV/
 #include <iostream>
 using namespace std;
 

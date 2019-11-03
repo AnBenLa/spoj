@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/ARITH/
 #include <iostream>
 #include <vector>
 #include <algorithm>

@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/SBSTR1/
 #include <iostream>
 
 int main() {
