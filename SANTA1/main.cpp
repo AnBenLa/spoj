@@ -13,13 +13,6 @@
 
 using namespace std;
 
-
-struct reindeer{
-    string name;
-    ull sen;
-    ull prod;
-};
-
 bool operator < (reindeer const& a, reindeer const& b){
     if(a.sen > b.sen){
         return true;
@@ -28,6 +21,16 @@ bool operator < (reindeer const& a, reindeer const& b){
     }
     return false;
 }
+
+class r_set : public set<reindeer>{
+    int prod;
+};
+
+struct reindeer{
+    string name;
+    ull sen;
+    ull prod;
+};
 
 bool operator == (reindeer const& a, reindeer const& b){
     return a.name == b.name;
