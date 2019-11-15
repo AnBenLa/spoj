@@ -1,6 +1,6 @@
 //
 // Created by Anton on 13.11.2019.
-//
+// https://www.spoj.com/problems/SBANK/
 
 #include <iostream>
 #include <string>
