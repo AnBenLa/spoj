@@ -1,6 +1,10001 @@
-5
+10000
 A Dancer 5 2
 A Prancer 3 8
 A Vixen 10 9
 R Dancer
 A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
+A Dancer 5 2
+A Prancer 3 8
+A Vixen 10 9
+R Dancer
+A Rudolph 3 1
+A Test 5 2
+R Vixen
+R Rudolph
+R Test
+R Prancer
