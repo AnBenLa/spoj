@@ -33,7 +33,7 @@ int main(){
     unordered_map<int, int> pers;
     unordered_map<string, int> pers_ind;
 
-    //ifstream cin ("C:\\Users\\Mortiferum\\CLionProjects\\spoj\\FRNDCIRC\\in.txt");
+    ifstream cin ("C:\\Users\\Mortiferum\\CLionProjects\\spoj\\FRNDCIRC\\in.txt");
 
     cin >> c;
 
