@@ -5,6 +5,8 @@
 #include <iostream>
 #include <fstream>
 #include <cmath>
+#include <algorithm>
+#include <unordered_map>
 
 #define ui unsigned int
 #define lli long long int
@@ -12,35 +14,45 @@
 
 using namespace std;
 
-ui n,q;
-lli sum,l,r;
-ulli size;
-lli arr[1050000];
-char op;
+ui t,n,l,tmp;
+ulli sum;
+ulli stair[100001];
+ui elem[100001];
+ui tmp_a[100001];
+unordered_map<ui,ui> hm;
 
 lli prev(lli ind){
     return (ind & (ind + 1))-1;
 }
 
-lli getSum(lli ind, ulli num){
+lli getSum(lli ind){
     lli res = 0;
     while(ind >= 0){
-        //res += arr[ind];
+        res += stair[ind];
         ind = prev(ind);
-        if(ind %)
-        res += getSum(ind,num);
     }
     return res;
 }
 
-void solveQuery(){
-    sum = getSum(r-1) - getSum(l-2);
+void increment(){
+    tmp = l;
+    while(l < 100001){
+        stair[l] += hm[tmp];
+        l |= l+1;
+    }
+    l = tmp;
 }
 
-void increment(){
-    while(l < size){
-        arr[l] += r;
-        l |= l+1;
+ui find_v(ui a){
+    ui start = 0, end = n;
+    while(start <= end){
+        ui mid = (start + end) >> 1;
+        if(tmp_a[mid] == a)
+            return mid;
+        else if(tmp_a[mid] > a)
+            end = mid - 1;
+        else
+            start = mid + 1;
     }
 }
 
@@ -48,28 +60,36 @@ int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
-    //ifstream cin ("C:\\Users\\Mortiferum\\CLionProjects\\spoj\\FENTREE\\in.txt");
+    ifstream cin ("C:\\Users\\Mortiferum\\CLionProjects\\spoj\\DCEPC206\\in.txt");
 
-    cin >> n;
-
-    size = pow(2,floor(log2(n)) + 1);
-
-    for(ui i = 0; i < n; ++i){
-        cin >> r;
-        l = i;
-        increment();
-    }
-
-    cin >> q;
-    while(q--){
-        cin >> op >> l >> r;
-        if(op == 'q'){
-            solveQuery();
-            cout << sum << "\n";
-        } else {
-            l -= 1;
-            increment();
+    cin >> t;
+    while(t--){
+        cin >> n;
+        sum = 0;
+        for(ui i = 0; i < n; ++i){
+            stair[i] = 0;
         }
+
+        for(ui i = 0; i < n; ++i){
+            cin >> tmp;
+            elem[i] = tmp;
+            tmp_a[i] = tmp;
+        }
+
+        sort(tmp_a, tmp_a + n);
+
+        for (ui i = 0; i < n; ++i) {
+            tmp = find_v(elem[i]);
+            hm[tmp + 1] = elem[i];
+            elem[i] = tmp + 1;
+        }
+
+        for(ui i = 0; i < n; ++i){
+            l = elem[i];
+            increment();
+            sum += getSum(l-1);
+        }
+        cout << sum << "\n";
     }
 
     return 0;
