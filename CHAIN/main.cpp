@@ -6,99 +6,171 @@
 #include <vector>
 #include <fstream>
 #include <map>
+#include <unordered_set>
+#include <chrono>
+
 #define ui unsigned int
 
 using namespace std;
 
-ui t,n,k,a,x,y,r,r_2,err;
-vector<ui> passed_notes;
-map<ui,ui> rel;
-map<ui,ui> eats;
+enum type {
+    A, B, C, U
+};
 
-int find_root(ui b){
-    passed_notes.clear();
-    //finding root node of b in pers
-    while(rel[b] != 0){
-        passed_notes.push_back(b);
-        b = rel[b];
-    }
-    //path compression
-    for(auto passed : passed_notes){
-        rel[passed] = b;
-    }
-    return b;
+ui t, n, k, a, x, y, err;
+unordered_set<ui> A_S, B_S, C_S;
+vector<pair<ui, ui>> unknown_g;
+vector<pair<ui, ui>> unknown_e;
+type x_t, y_t;
+
+void find_type_x_y() {
+    x_t = U;
+    y_t = U;
+    if (A_S.find(x) != A_S.end())
+        x_t = A;
+    else if (B_S.find(x) != B_S.end())
+        x_t = B;
+    else if (C_S.find(x) != C_S.end())
+        x_t = C;
+    if (A_S.find(y) != A_S.end())
+        y_t = A;
+    else if (B_S.find(y) != B_S.end())
+        y_t = B;
+    else if (C_S.find(y) != C_S.end())
+        y_t = C;
 }
 
-bool contradiction(ui x, ui y){
-    ui ry = find_root(y);
-    ui rx = find_root(x);
-    ui ryn = find_root(eats[ry]);
-    ui rxn = find_root(eats[rx]);
-    ui rynn = find_root(eats[ryn]);
-    ui rxnn = find_root(eats[rxn]);
-    return (ry == rx || rx == ryn || rxnn == ry || rynn == rxn);
-}
-
-int main(){
+int main() {
+    auto start = std::chrono::high_resolution_clock::now();
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
-    ifstream cin ("C:\\Users\\Mortiferum\\CLionProjects\\spoj\\CHAIN\\in.txt");
+    ifstream cin("C:\\Users\\Anton\\CLionProjects\\spoj\\CHAIN\\in.txt");
 
     cin >> t;
 
-    while(t--) {
-        rel.clear();
-        eats.clear();
+    while (t--) {
+        A_S.clear();
+        B_S.clear();
+        C_S.clear();
+        unknown_e.clear();
+        unknown_g.clear();
         err = 0;
         cin >> n >> k;
-        for(int i = 1; i <= n; ++i){
-            rel[i] = 0;
-        }
         while (k--) {
             cin >> a >> x >> y;
             if (x > n || y > n) {
                 err += 1;
-            } else {
-                if (a == 1) {
-                    if(contradiction(x,y)) {
-                        err += 1;
+                continue;
+            }
+            find_type_x_y();
+            if (a == 1) {
+                if (x_t != U && y_t == U) {
+                    if (x_t == A)
+                        A_S.insert(y);
+                    else if (x_t == B)
+                        B_S.insert(y);
+                    else if (x_t == C)
+                        C_S.insert(y);
+                } else if (x_t == U && y_t != U) {
+                    if (y_t == A)
+                        A_S.insert(x);
+                    else if (y_t == B)
+                        B_S.insert(x);
+                    else if (y_t == C)
+                        C_S.insert(x);
+                } else if (x_t == U && y_t == U) {
+                    if (A_S.empty()) {
+                        A_S.insert(x);
+                        A_S.insert(y);
                     } else {
-                        if (rel[x] == 0 && rel[y] == 0) {
-                            if(x != y) {
-                                rel[y] = x;
-                                rel[x] = 0;
-                            }
-                        } else if (rel[x] == 0) {
-                            r = find_root(y);
-                            rel[x] = r;
-                        } else if (rel[y] == 0) {
-                            r = find_root(x);
-                            rel[y] = r;
-                        } else {
-                            r = find_root(x);
-                            r_2 = find_root(y);
-                            if(contradiction(x,y)){
-                                err += 1;
-                            } else {
-                                rel[r_2] = r;
-                            }
-                        }
+                        unknown_g.emplace_back(x, y);
                     }
                 } else {
-                    if(x == y){
+                    if (x != y) {
                         err += 1;
-                    } else {
-                        if(contradiction(x,y)){
-                            err+=1;
-                        } else {
-                            eats[find_root(x)] = find_root(y);
-                        }
                     }
+                }
+            } else {
+                if (x_t == U && y_t == U) {
+                    if (A_S.empty()) {
+                        A_S.insert(x);
+                        B_S.insert(y);
+                    } else {
+                        unknown_e.emplace_back(x, y);
+                    }
+                } else if (x_t == U && y_t != U) {
+                    if (y_t == A)
+                        C_S.insert(x);
+                    else if (y_t == B)
+                        A_S.insert(x);
+                    else if (y_t == C)
+                        B_S.insert(x);
+                } else if (x_t != U && y_t == U) {
+                    if (x_t == A)
+                        B_S.insert(y);
+                    else if (x_t == B)
+                        C_S.insert(y);
+                    else if (x_t == C)
+                        A_S.insert(y);
+                } else {
+                    if (x_t == A && y_t != B)
+                        err += 1;
+                    if (x_t == B && y_t != C)
+                        err += 1;
+                    if (x_t == C && y_t != A)
+                        err += 1;
+                }
+            }
+            //check if unknown elements can be processed
+            for (int i = 0; i < unknown_e.size(); ++i) {
+                x = unknown_e[i].first;
+                y = unknown_e[i].second;
+                find_type_x_y();
+                if (x_t == A)
+                    B_S.insert(y);
+                else if (x_t == B)
+                    C_S.insert(y);
+                else if (x_t == C)
+                    A_S.insert(y);
+                if (y_t == A)
+                    C_S.insert(x);
+                else if (y_t == B)
+                    A_S.insert(x);
+                else if (y_t == C)
+                    B_S.insert(x);
+                if (y_t != U || x_t != U) {
+                    unknown_e.erase(unknown_e.begin() + i);
+                    i -= 1;
+                }
+            }
+
+            for (int i = 0; i < unknown_g.size(); ++i) {
+                x = unknown_g[i].first;
+                y = unknown_g[i].second;
+                find_type_x_y();
+                if (x_t == A)
+                    A_S.insert(y);
+                else if (x_t == B)
+                    B_S.insert(y);
+                else if (x_t == C)
+                    C_S.insert(y);
+                if (y_t == A)
+                    A_S.insert(x);
+                else if (y_t == B)
+                    B_S.insert(x);
+                else if (y_t == C)
+                    C_S.insert(x);
+                if (y_t != U || x_t != U) {
+                    unknown_g.erase(unknown_g.begin() + i);
+                    i -= 1;
                 }
             }
         }
         cout << err << "\n";
     }
+    auto finish = std::chrono::high_resolution_clock::now();
+    std::chrono::duration<double> elapsed = finish - start;
+    std::cout << "Elapsed time: " << elapsed.count() << " s\n";
     return 0;
 }
