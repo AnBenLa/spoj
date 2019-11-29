@@ -3,7 +3,6 @@
 // https://www.spoj.com/problems/TULIPNUM/
 
 #include <iostream>
-#include <unordered_map>
 #include <fstream>
 
 #define ui unsigned int
@@ -12,22 +11,22 @@
 
 using namespace std;
 
-ui n,q,t,tmp,tmp_o, ind;
-lli sum,l,r;
+ulli l,r,n,q,t,tmp,tmp_o, ind;;
 ui arr[100002];
 
 int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
-    //ifstream cin ("C:\\Users\\Mortiferum\\CLionProjects\\spoj\\TULIPNUM\\in.txt");
+    ifstream cin ("C:\\Users\\Anton\\CLionProjects\\spoj\\TULIPNUM\\in.txt");
 
     cin >> t;
-    while(t--) {
+    for(ui k = 1; k <= t; ++k) {
         cin >> n >> q;
-        tmp_o = 0;
-        ind = 0;
-        for (ui i = 1; i <= n; ++i) {
+        cin >> tmp_o;
+        arr[1] = 1;
+        ind = 1;
+        for (ui i = 2; i <= n; ++i) {
             cin >> tmp;
             if(tmp != tmp_o){
                 ind += 1;
@@ -36,9 +35,10 @@ int main(){
             tmp_o = tmp;
         }
 
+        cout << "Case " << k << ":" << "\n";
         while (q--) {
             cin >> l >> r;
-            cout << arr[r]-arr[l] + 1<< "\n";
+            cout << arr[r]-arr[l] + 1 << "\n";
         }
     }
     return 0;
