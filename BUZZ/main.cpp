@@ -13,6 +13,10 @@ typedef unsigned int ui;
 
 vector<set<us>> regions;
 
+struct edge{
+    int a,b;
+};
+
 struct vertex {
     int index;
     vector<us> adjacent_vertices;
@@ -30,37 +34,40 @@ void add_edge(vector<vertex> &graph, us u, us v) {
 
 //tries to visit the vertex vert. If vert has'nt been visited yet visit the subtree using depthFirstSearch
 //if the vertex vert has been visited there is a loop
-void visit(vector<vertex> &graph, vertex &vert, vertex &father, vector<vertex> &path) {
+void visit(vector<vertex> &graph, vertex &vert, vertex &father, vector<edge> &path) {
     vert.visited = 1;
-    bool artic = false;
     for (auto const &i : vert.adjacent_vertices) {
         vertex& child = graph[i - 1];
-        if (child.index != father.index && child.visited == -1) {
+        if (child.visited == -1) {
             child.depth = vert.depth + 1;
             child.low = vert.depth + 1;
-            path.push_back(child);
+            path.push_back({vert.index,child.index});
             visit(graph, child, vert, path);
             vert.low = min(vert.low, child.low);
             if((vert.depth == 0 && vert.adjacent_vertices.size() > 1) ||
                     (vert.depth > 0 && child.low >= vert.depth)){
                 set<us> region;
                 vert.artic = true;
-                cout << "Region: ";
-                while(path[path.size() - 1].index != child.index ||path[path.size() - 2].index != vert.index){
-                    cout << path.back().index << " -- ";
-                    region.insert(path.back().index);
+                //TODO fix problem here
+                while(path.back().a != vert.index || path.back().b != child.index){
+                    //cout << path.back().a << " -- " << path.back().b << " ";
+                    region.insert(path.back().a);
+                    region.insert(path.back().b);
                     path.pop_back();
                 }
-                cout << path[path.size() - 1].index << " -- " << path[path.size() - 2].index << "\n";
-                region.insert(path[path.size() - 1].index);
-                region.insert(path[path.size() - 2].index);
+                //cout << path.back().a << " -- " << path.back().b << "\n";
+                region.insert(path.back().a);
+                region.insert(path.back().b);
+                if(region.size() > 2) {
+                    regions.push_back(region);
+                }
                 path.pop_back();
-                regions.push_back(region);
+
             }
         } else if(child.index != father.index){
             vert.low = min(vert.low, child.depth);
             if(child.depth < vert.depth){
-                //path.push_back(child);
+                path.push_back({vert.index, child.index});
             }
         }
     }
@@ -71,12 +78,10 @@ void visit(vector<vertex> &graph, vertex &vert, vertex &father, vector<vertex> &
 void depthFirstSearch(vector<vertex> &graph) {
     for (auto &i : graph) {
         if (i.visited == -1) {
-            vector<vertex> path;
+            vector<edge> path;
             i.depth = 0;
             i.low = 0;
-            path.push_back(i);
             visit(graph, i, i, path);
-            path.pop_back();
         }
     }
 }
@@ -84,56 +89,44 @@ void depthFirstSearch(vector<vertex> &graph) {
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    ifstream cin("C:\\Users\\Mortiferum\\CLionProjects\\spoj\\BUZZ\\in.txt");
-    us t, n, b, u, v, tmp;
-    ui e;
-    us supply_lookup[260];
-    bool city_unused[260];
+    ifstream cin("C:\\Users\\Anton\\CLionProjects\\spoj\\BUZZ\\in.txt");
+
+    ui e, t, n, b, u, v, tmp;
+    us supply_lookup[300];
+    bool city_unused[300];
     vector<vertex> graph;
     vector<us> buzz_energy;
+
     cin >> t;
     for (us i = 0; i < t; ++i) {
+        //clear data
         graph.clear();
         regions.clear();
         buzz_energy.clear();
+
         cin >> n >> e >> b;
 
+        //read in city supply values and store them
         for (us k = 0; k < n; ++k) {
             cin >> supply_lookup[k];
             graph.push_back(vertex{k + 1});
             city_unused[k] = true;
         }
+        //read in the energies required by the buzz figures
         for (us k = 0; k < b; ++k) {
             cin >> tmp;
             buzz_energy.push_back(tmp);
         }
+        //read in all the edges and construct the graph
         for (ui k = 0; k < e; ++k) {
             cin >> u >> v;
             add_edge(graph, u, v);
         }
 
-        //find regions via cycle check
+        //find regions via dfs hopcroft and tarjan algorithm
         depthFirstSearch(graph);
 
-        //clean regions
-        for(int k = 0; k < regions.size(); ++k){
-            set<us>& region = regions[k];
-            if(region.size() == 2){
-                auto it = region.begin();
-                us first = *it;
-                it++;
-                us second = *it;
-                if(graph[first - 1].artic && !graph[second - 1].artic){
-                    region.erase(first);
-                } else if (!graph[first - 1].artic && graph[second - 1].artic){
-                    region.erase(second);
-                } else {
-                    region.clear();
-                    regions.push_back(set<us>{first});
-                    regions.push_back(set<us>{second});
-                }
-            }
-        }
+        //compute energy supply per region
         vector<ui> region_energy_supply;
 
         for (const auto &region : regions) {
@@ -156,6 +149,7 @@ int main() {
         if (region_energy_supply.size() > b) {
             cout << "No\n";
         } else {
+            //compute the minimal wastage of energy
             ui max_wastage = 0;
             sort(region_energy_supply.begin(), region_energy_supply.end());
             sort(buzz_energy.begin(), buzz_energy.end());
@@ -180,7 +174,7 @@ int main() {
                     }
                 }
                 min_buzzs.push_back(min_buzz);
-                buzz_energy[min_ind] = 10000;
+                buzz_energy[min_ind] = 50000;
             }
             sort(min_buzzs.begin(), min_buzzs.end());
             max_wastage = min_buzzs[min_buzzs.size() - 1];
