@@ -6,6 +6,7 @@
 #include <vector>
 #include <algorithm>
 #include <stack>
+#include <set>
 
 using namespace std;
 typedef unsigned short us;
@@ -63,12 +64,13 @@ void depthFirstSearch(vector<vertex> &graph, stack<ui> &traversal_stack) {
 }
 
 //adds all reachable nodes in the graph from node with index to vector result
-void reachability(vector<vertex> &graph, ui index, vector<ui> &result) {
+void reachability(vector<vertex> &graph, ui index, set<ui> &result) {
+    result.insert(index);
+    graph[index - 1].visited = 1;
     for (auto adj_vert : graph[index - 1].adjacent_vertices) {
         vertex &child = graph[adj_vert - 1];
         if (child.visited == -1) {
-            child.visited = 1;
-            result.push_back(child.index);
+            result.insert(child.index);
             reachability(graph, child.index, result);
         }
     }
@@ -79,7 +81,7 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
-    ifstream cin("C:\\Users\\Anton\\CLionProjects\\spoj\\CAPCITY\\in.txt");
+    ifstream cin("C:\\Users\\Mortiferum\\CLionProjects\\spoj\\CAPCITY\\in.txt");
 
     ui n, m, u, v;
     cin >> n >> m;
@@ -99,22 +101,39 @@ int main() {
     stack<ui> traversal_stack;
     depthFirstSearch(graph, traversal_stack);
 
-    vector<vector<ui>> sccs;
+    vector<set<ui>> sccs;
     while (!traversal_stack.empty()) {
         ui current = traversal_stack.top();
         traversal_stack.pop();
-        vector<ui> scc;
-        reachability(compl_graph, current, scc);
-        sccs.push_back(scc);
+        set<ui> scc;
+        if(compl_graph[current-1].visited == -1) {
+            reachability(compl_graph, current, scc);
+            //with scc found check the in-degree for the scc. If in-degree is zero and its the only scc with this in-degree its possible scc
+            //if two sccs have in-degree 0 both of them cant be the capital city
+            if(scc.size() > 1){
+                int in_degree = 0;
+                set<ui> ingoing_connections;
+                for(auto element : scc){
+                    for(auto in_going : graph[element - 1].adjacent_vertices){
+                        ingoing_connections.insert(in_going);
+                    }
+                }
+                in_degree = ingoing_connections.size();
+                if(in_degree == 0) {
+                    sccs.push_back(scc);
+                }
+            }
+        }
     }
 
-
-    int result = 0;
-    for (auto const &vert : graph) {
-        if (vert.artic)
-            result++;
+    if(sccs.size() == 1) {
+        cout << sccs.size() << "\n";
+        for (auto element : sccs.front()) {
+            cout << element << " ";
+        }
+        cout << "\n";
+    } else {
+        cout  << "0\n";
     }
-    cout << result << "\n";
-
     return 0;
 }
