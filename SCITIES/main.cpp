@@ -13,7 +13,8 @@ typedef unsigned int ui;
 
 
 bool maximizing = true;
-us const dim = 101, max_value = 300;
+bool print_out = false;
+us const dim = 101, max_value = 100;
 us m, range;
 us graph[dim][dim], original[dim][dim];
 bool crossed_out_col[dim], crossed_out_row[dim],assigned[dim][dim],
@@ -113,6 +114,7 @@ us min_lines() {
         assigned_row[i] = false;
         for(us j = 1; j < range; ++j){
             assigned[i][j] = false;
+            crossed_out[i][j] = false;
         }
     }
     for (us i = 1; i < range; ++i) {
@@ -207,13 +209,17 @@ void compute_result() {
 }
 
 void hungarian_algorithm() {
-    print();
+    if(print_out)
+        print();
     sub_row();
-    print();
+    if(print_out)
+        print();
     sub_col();
-    print();
+    if(print_out)
+        print();
     us n = min_lines();
-    print();
+    if(print_out)
+        print();
     while (n != m) {
         us smallest_entry = find_smallest_entry();
         for(us i = 1; i < range; ++i){
@@ -232,7 +238,8 @@ void hungarian_algorithm() {
         //sub_from_uncrossed_rows(smallest_entry);
         //add_to_crossed_columns(smallest_entry);
         n = min_lines();
-        print();
+        if(print_out)
+            print();
     }
     compute_result();
 }
@@ -241,7 +248,7 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
-    ifstream cin("C:\\Users\\Elke\\Desktop\\Anton\\Competetive-Programming\\spoj\\SCITIES\\in.txt");
+    ifstream cin("C:\\Users\\Anton\\CLionProjects\\spoj\\SCITIES\\in.txt");
 
     us t, C1, C2, c1, c2, g;
 
@@ -282,7 +289,7 @@ int main() {
         }
 
         hungarian_algorithm();
-        cout << "\nresult: " << result << "\n";
+        cout << result << "\n";
     }
 
     return 0;
