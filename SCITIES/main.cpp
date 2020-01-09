@@ -6,19 +6,17 @@
 #include <fstream>
 #include <vector>
 #include <algorithm>
-#include <queue>
 
 using namespace std;
 typedef unsigned short us;
 typedef unsigned int ui;
 
-bool maximizing = false, print_out = false;
+bool maximizing = true, print_out = false;
 us const dim = 101, max_value = 100;
 us path[dim][2]{0};
 us m, range, t, C1, C2, c1, c2, g, graph[dim][dim], original[dim][dim], assignment [dim][dim]{0};
-bool crossed_out[dim][dim], crossed_out_col[dim], crossed_out_row[dim],
-        covered_row[dim]{false}, covered_col[dim]{false},
-        ocupied_row[dim], ocupied_col[dim];
+bool    crossed_out_col[dim], crossed_out_row[dim],
+        covered_row[dim]{false}, covered_col[dim]{false};
 ui result;
 
 void print() {
@@ -282,7 +280,7 @@ void hungarian_algorithm() {
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    ifstream cin("C:\\Users\\Anton\\CLionProjects\\spoj\\SCITIES\\in.txt");
+    ifstream cin("C:\\Users\\Anton\\CLionProjects\\spoj\\SCITIES\\in-2.txt");
 
     cin >> t;
 
