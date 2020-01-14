@@ -4,4 +4,5 @@ project(15609)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(TULIPNUM main.cpp)
-add_executable(TIME fast_2.cpp)
+add_executable(TIME time.cpp)
+add_executable(fast fast_2.cpp)

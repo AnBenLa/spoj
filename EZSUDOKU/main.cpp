@@ -1,6 +1,6 @@
 //
 // Created by Anton on 18.11.2019.
-// https://www.spoj.com/problems/TULIPNUM/
+// https://www.spoj.com/problems/EZSUDOKU/
 
 #include <iostream>
 #include <vector>
@@ -124,7 +124,7 @@ int main() {
 
         find_solution(0);
         if(solution){
-            cout << "Test case #" << m << ": YES\n";
+            cout << "DCEPC501 case #" << m << ": YES\n";
             for(int i = 0; i < 8; ++i){
                 for(int k= 0; k < 8; ++k){
                     cout << sod[i][k] << " ";
@@ -133,7 +133,7 @@ int main() {
                 }
             }
         } else {
-            cout << "Test case #" << m << ": NO\n";
+            cout << "DCEPC501 case #" << m << ": NO\n";
         }
     }
     return 0;

@@ -1,6 +1,6 @@
 //
 // Created by Mortiferum on 08.12.2019.
-//
+// https://www.spoj.com/problems/PT07Y/
 #include <iostream>
 #include <fstream>
 #include <vector>

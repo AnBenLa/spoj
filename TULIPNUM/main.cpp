@@ -70,7 +70,7 @@ int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
-    ifstream cin ("C:\\Users\\Anton\\CLionProjects\\spoj\\TULIPNUM\\in.txt");
+    ifstream cin ("C:\\Users\\Mortiferum\\CLionProjects\\spoj\\TULIPNUM\\in.txt");
 
     cin >> t;
     while(t--) {
