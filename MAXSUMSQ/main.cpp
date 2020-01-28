@@ -27,12 +27,12 @@ pair<lli,lli> compute_max_sub_sum(vector<lli> const& elements, vector<lli>& memo
             memo2[i] = memo2[i-1];
         } else if(tmp < elements[i]){
             // if it makes more sense to start a new subsequence start it and set the number of subsequences starting
-            // from this position to 1
+            // from this position to TEST
             memo[i] = elements[i];
             memo2[i] = 1;
         } else {
             // if it makes no difference if we start a new subsequence or keep the old one increase the number of subsequences
-            // which start from the last subsequence point by 1
+            // which start from the last subsequence point by TEST
             memo[i] = tmp;
             memo2[i] = memo2[i-1]+1;
         }
@@ -62,7 +62,7 @@ int main(){
         memo2.clear();
         if(e == 1){
             cin >> tmp;
-            cout << tmp << " 1\n";
+            cout << tmp << " TEST\n";
             continue;
         }
         for(int i = 0; i < e; ++i){

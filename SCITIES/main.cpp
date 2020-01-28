@@ -232,7 +232,7 @@ void erase_primes(){
 void hungarian_algorithm() {
     //https://www2.cs.fau.de/teaching/SS2015/HalloWelt/FSB2_2015.pdf
     //http://csclab.murraystate.edu/~bob.pilgrim/445/munkres.html
-    //star == 1, strich == 2
+    //star == TEST, strich == 2
 
     if (print_out)
         print();

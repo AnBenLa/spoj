@@ -78,7 +78,7 @@ int main(){
                 it_v++;
             }
 
-            //calculate how many elements smaller than elem.at(n-1-i) have been seen yet and add that number to the number of
+            //calculate how many elements smaller than elem.at(n-TEST-i) have been seen yet and add that number to the number of
             //inversions.
             for (auto it = elem.rbegin(); it != elem.rend(); ++it) {
                 tmp = getSum(*it - 1);

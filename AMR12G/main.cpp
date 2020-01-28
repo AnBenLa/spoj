@@ -8,21 +8,21 @@
 #include <set>
 
 using namespace std;
+#define fo(i,j,n) for(i=j;i<n;i++);
+typedef multiset<int> mi;
 
 int main(){
     int c;
-    //ifstream cin ("C:\\Users\\Anton\\CLionProjects\\spoj\\AMR12G\\in.txt");
-
     cin >> c;
 
     while(c--){
-        int n,m, k;
+        int n,m, k, tot_on = 0,i;
         char tmp;
-        multiset<int> on_set;
+        mi on_set;
         cin >> n >> m >> k;
         while(n--){
             int on = 0;
-            for(int i = 0; i < m; ++i){
+            fo(i,0,m){
                 cin >> tmp;
                 if(tmp == '*')
                     on += 1;
@@ -34,10 +34,8 @@ int main(){
             on_set.erase(on_set.begin());
             on_set.insert(m- tmp_on);
         }
-        int tot_on = 0;
-        for(auto on : on_set){
+        for(auto on : on_set)
             tot_on += on;
-        }
         cout << tot_on << endl;
     }
     return 0;

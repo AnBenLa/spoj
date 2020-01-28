@@ -74,7 +74,7 @@ int main(){
                 elem.at(i) = distance(s.begin(), s.find(elem.at(i))) + 1;
             }
 
-            //calculate how many elements smaller than elem.at(n-1-i) have been seen yet and add that number to the number of
+            //calculate how many elements smaller than elem.at(n-TEST-i) have been seen yet and add that number to the number of
             //inversions.
             for (int i = 0; i < n; ++i) {
                 tmp = getSum(elem.at(n - 1 - i) - 1);

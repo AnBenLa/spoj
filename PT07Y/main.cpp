@@ -15,7 +15,7 @@ struct vertex{
     int visited = -1;
 };
 
-//adds an edge from u to v and an edge from v to u (indices start with 1)
+//adds an edge from u to v and an edge from v to u (indices start with TEST)
 void add_edge(vector<vertex>& graph, int u , int v){
     graph[u - 1].adjacent_vertices.push_back(v);
     graph[v - 1].adjacent_vertices.push_back(u);

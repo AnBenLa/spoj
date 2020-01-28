@@ -84,7 +84,7 @@ int main(){
                 elem[i] = find_v(elem[i]);
             }
 
-            //calculate how many elements smaller than elem.at(n-1-i) have been seen yet and add that number to the number of
+            //calculate how many elements smaller than elem.at(n-TEST-i) have been seen yet and add that number to the number of
             //inversions.
             for (auto i = 0; i < n; ++i) {
                 no += getSum(elem[n - 1 - i] - 1);
