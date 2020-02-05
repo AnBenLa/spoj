@@ -15,7 +15,7 @@ struct node{
     node* father{nullptr};
     char letter = 0;
     vector<ui> dic_ind{};
-    node* child[26]{nullptr};
+    node* child[27]{nullptr};
     bool isWord = false;
     ui word_count = 0;
 };
@@ -42,30 +42,6 @@ void add_word(string const& word, node* root, ui i){
     current_node->word_count += 1;
 }
 
-bool operator < (string const& a, string const& b){
-    string s = a, l = b;
-    bool sw = false;
-    if(a.length() > b.length()){
-        s = b;
-        l = a;
-        sw = true;
-    }
-    for(ui i = 0; i < s.length(); ++i){
-        if(s[i] < l[i]) {
-            if(!sw)
-                return true;
-            else
-                return false;
-        }
-        else if(s[i] > l[i]) {
-            if(!sw)
-                return false;
-            else
-                return true;
-        }
-    }
-    return true;
-};
 
 string rhyme(string& word, node* root){
     node* current_node = root;
@@ -74,6 +50,8 @@ string rhyme(string& word, node* root){
     for(char c : word){
         if(c == '\r')
             continue;
+        if(current_node->child[c-'a'] == nullptr)
+            return dictionary[current_node->dic_ind[0]];
         current_node =  current_node->child[c-'a'];
     }
     //find the node where the words with the longest suffix are stored
@@ -87,7 +65,7 @@ string rhyme(string& word, node* root){
     reverse(word.begin(),word.end());
     string current_small;
     for(ui i : current_node->dic_ind){
-        if(dictionary[i] != word && (current_small.empty() || dictionary[i] < current_small)){
+        if(dictionary[i] != word && (current_small.empty() ||  dictionary[i].compare(current_small) < 0)){
             current_small = dictionary[i];
         }
     }
