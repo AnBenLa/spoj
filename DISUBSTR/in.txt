@@ -1,0 +1,9 @@
+3
+CCCCC
+ABABA
+AB
+
+out:
+5
+9
+3
