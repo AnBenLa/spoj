@@ -1,176 +1,71 @@
-//
-// Created by Anton on 18.11.2019.
-// https://www.spoj.com/problems/CHAIN/
-
-#include <iostream>
-#include <vector>
-#include <fstream>
-#include <map>
-#include <unordered_set>
-#include <chrono>
-
-#define ui unsigned int
+#include<bits/stdc++.h>
+#include <cstring>
+#include <algorithm>
 
 using namespace std;
+typedef unsigned int ui;
 
-enum type {
-    A, B, C, U
-};
+ui n, char_count[26];
 
-ui t, n, k, a, x, y, err;
-unordered_set<ui> A_S, B_S, C_S;
-vector<pair<ui, ui>> unknown_g;
-vector<pair<ui, ui>> unknown_e;
-type x_t, y_t;
+//implementation from: https://w...content-available-to-author-only...s.org/suffix-array-set-2-a-nlognlogn-algorithm/
+typedef long long ll;
+typedef vector<ll> vi;
+#define maxn 300009
 
-void find_type_x_y() {
-    x_t = U;
-    y_t = U;
-    if (A_S.find(x) != A_S.end())
-        x_t = A;
-    else if (B_S.find(x) != B_S.end())
-        x_t = B;
-    else if (C_S.find(x) != C_S.end())
-        x_t = C;
-    if (A_S.find(y) != A_S.end())
-        y_t = A;
-    else if (B_S.find(y) != B_S.end())
-        y_t = B;
-    else if (C_S.find(y) != C_S.end())
-        y_t = C;
+
+vector<ll> suffix_array(string& s)
+{
+    ll n = s.size(), N = n + 256;
+    vector<ll> sa(n), ra(n);
+    for(ll i = 0; i < n; i++) sa[i] = i, ra[i] = s[i];
+    for(ll k = 0; k < n; k ? k *= 2 : k++)
+    {
+        vector<ll> nsa(sa), nra(n), cnt(N);
+        for(ll i = 0; i < n; i++) nsa[i] = (nsa[i] - k + n) % n;
+        for(ll i = 0; i < n; i++) cnt[ra[i]]++;
+        for(ll i = 1; i < N; i++) cnt[i] += cnt[i - 1];
+        for(ll i = n - 1; i >= 0; i--) sa[--cnt[ra[nsa[i]]]] = nsa[i];
+
+        ll r = 0;
+        for(ll i = 1; i < n; i++)
+        {
+            if(ra[sa[i]] != ra[sa[i - 1]]) r++;
+            else if(ra[(sa[i] + k) % n] != ra[(sa[i - 1] + k) % n]) r++;
+            nra[sa[i]] = r;
+        }
+        ra = nra;
+    }
+    return sa;
 }
 
 int main() {
-    auto start = std::chrono::high_resolution_clock::now();
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+    cin.sync_with_stdio(0), cin.tie(0);
+    //~ freopen("in", "r", stdin);
 
-    ifstream cin("C:\\Users\\Anton\\CLionProjects\\spoj\\CHAIN\\in.txt");
+    string str;
+    cin>>str;
+    n = str.size();
+    str += '#';
+    vi suff_ind = suffix_array(str);
 
-    cin >> t;
-
-    while (t--) {
-        A_S.clear();
-        B_S.clear();
-        C_S.clear();
-        unknown_e.clear();
-        unknown_g.clear();
-        err = 0;
-        cin >> n >> k;
-        while (k--) {
-            cin >> a >> x >> y;
-            if (x > n || y > n) {
-                err += 1;
-                continue;
-            }
-            find_type_x_y();
-            if (a == 1) {
-                if (x_t != U && y_t == U) {
-                    if (x_t == A)
-                        A_S.insert(y);
-                    else if (x_t == B)
-                        B_S.insert(y);
-                    else if (x_t == C)
-                        C_S.insert(y);
-                } else if (x_t == U && y_t != U) {
-                    if (y_t == A)
-                        A_S.insert(x);
-                    else if (y_t == B)
-                        B_S.insert(x);
-                    else if (y_t == C)
-                        C_S.insert(x);
-                } else if (x_t == U && y_t == U) {
-                    if (A_S.empty()) {
-                        A_S.insert(x);
-                        A_S.insert(y);
-                    } else {
-                        unknown_g.emplace_back(x, y);
-                    }
-                } else {
-                    if (x != y) {
-                        err += 1;
-                    }
-                }
-            } else {
-                if (x_t == U && y_t == U) {
-                    if (A_S.empty()) {
-                        A_S.insert(x);
-                        B_S.insert(y);
-                    } else {
-                        unknown_e.emplace_back(x, y);
-                    }
-                } else if (x_t == U && y_t != U) {
-                    if (y_t == A)
-                        C_S.insert(x);
-                    else if (y_t == B)
-                        A_S.insert(x);
-                    else if (y_t == C)
-                        B_S.insert(x);
-                } else if (x_t != U && y_t == U) {
-                    if (x_t == A)
-                        B_S.insert(y);
-                    else if (x_t == B)
-                        C_S.insert(y);
-                    else if (x_t == C)
-                        A_S.insert(y);
-                } else {
-                    if (x_t == A && y_t != B)
-                        err += 1;
-                    if (x_t == B && y_t != C)
-                        err += 1;
-                    if (x_t == C && y_t != A)
-                        err += 1;
-                }
-            }
-            //check if unknown elements can be processed
-            for (int i = 0; i < unknown_e.size(); ++i) {
-                x = unknown_e[i].first;
-                y = unknown_e[i].second;
-                find_type_x_y();
-                if (x_t == A)
-                    B_S.insert(y);
-                else if (x_t == B)
-                    C_S.insert(y);
-                else if (x_t == C)
-                    A_S.insert(y);
-                if (y_t == A)
-                    C_S.insert(x);
-                else if (y_t == B)
-                    A_S.insert(x);
-                else if (y_t == C)
-                    B_S.insert(x);
-                if (y_t != U || x_t != U) {
-                    unknown_e.erase(unknown_e.begin() + i);
-                    i -= 1;
-                }
-            }
-
-            for (int i = 0; i < unknown_g.size(); ++i) {
-                x = unknown_g[i].first;
-                y = unknown_g[i].second;
-                find_type_x_y();
-                if (x_t == A)
-                    A_S.insert(y);
-                else if (x_t == B)
-                    B_S.insert(y);
-                else if (x_t == C)
-                    C_S.insert(y);
-                if (y_t == A)
-                    A_S.insert(x);
-                else if (y_t == B)
-                    B_S.insert(x);
-                else if (y_t == C)
-                    C_S.insert(x);
-                if (y_t != U || x_t != U) {
-                    unknown_g.erase(unknown_g.begin() + i);
-                    i -= 1;
-                }
+    for(ui i = 0; i < n; ++i){
+        //find difference between adjacent words in the suffix array
+        ui cur_i = suff_ind[i], cur_j = suff_ind[i+1], diff = 0;
+        bool finished = false;
+        while(!finished && cur_i < n && cur_j < n) {
+            if (txt[cur_i] != txt[cur_j])
+                finished = true;
+            else {
+                diff++; cur_i++; cur_j++;
             }
         }
-        cout << err << "\n";
+        //increase the count for the character
+        char_count[txt[suff_ind[i]] - 'a'] += n - suff_ind[i] - diff;
     }
-    auto finish = std::chrono::high_resolution_clock::now();
-    std::chrono::duration<double> elapsed = finish - start;
-    std::cout << "Elapsed time: " << elapsed.count() << " s\n";
+    for (ui i = 0; i < 26; ++i){
+        printf("%d", char_count[i]);
+        if(i < 25)
+            printf(" ");
+    }
     return 0;
 }
