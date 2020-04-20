@@ -1,0 +1,6 @@
+8 8
+computer
+kmpjutre
+
+out:
+4

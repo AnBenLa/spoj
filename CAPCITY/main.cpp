@@ -12,70 +12,29 @@ using namespace std;
 typedef unsigned short us;
 typedef unsigned int ui;
 
-struct vertex {
-    int index;
-    vector<us> adjacent_vertices;
-    int visited = -1;
-    ui low;
-    ui depth;
-    bool artic = false;
-};
+vector<ui> graph[200010],c_graph[200010];
+stack<ui> st;
+ui scc[200010]{0}, in_deg[200010]{0};
+bool visited [200010]{false};
 
-
-void visit(vector<vertex> &graph, vertex &vert, vertex &father, stack<ui> &traversal_stack) {
-    vert.visited = 1;
-    traversal_stack.push(vert.index);
-    int children = 0;
-
-    for (auto const &i : vert.adjacent_vertices) {
-        vertex &child = graph[i - 1];
-        if (child.visited == -1 && child.index != father.index) {
-            children++;
-            child.depth = vert.depth + 1;
-            child.low = vert.depth + 1;
-
-            visit(graph, child, vert, traversal_stack);
-
-            vert.low = min(vert.low, child.low);
-
-            if (vert.depth > 0 && child.low >= vert.depth) {
-                vert.artic = true;
-            }
-
-        } else if (child.index != father.index) {
-            vert.low = min(vert.low, child.depth);
-        }
+void dfs(ui i){
+    visited[i] = true;
+    for(auto adj : graph[i]){
+        if(!visited[adj])
+            dfs(adj);
     }
-    if (vert.depth == 0 && children > 1) {
-        vert.artic = true;
-    }
-    vert.visited = 2;
+    st.push(i);
 }
 
-
-void depthFirstSearch(vector<vertex> &graph, stack<ui> &traversal_stack) {
-    for (auto &i : graph) {
-        if (i.visited == -1) {
-            i.depth = 0;
-            i.low = 0;
-            visit(graph, i, i, traversal_stack);
-        }
+void dfs_c(ui i, ui cur_scc){
+    visited[i] = false;
+    scc[i] = cur_scc;
+    for(auto adj : c_graph[i]){
+        if(visited[adj])
+            dfs_c(adj, cur_scc);
     }
+    st.push(i);
 }
-
-//adds all reachable nodes in the graph from node with index to vector result
-void reachability(vector<vertex> &graph, ui index, set<ui> &result) {
-    result.insert(index);
-    graph[index - 1].visited = 1;
-    for (auto adj_vert : graph[index - 1].adjacent_vertices) {
-        vertex &child = graph[adj_vert - 1];
-        if (child.visited == -1) {
-            result.insert(child.index);
-            reachability(graph, child.index, result);
-        }
-    }
-}
-
 
 int main() {
     ios_base::sync_with_stdio(false);
@@ -85,55 +44,53 @@ int main() {
 
     ui n, m, u, v;
     cin >> n >> m;
-    vector<vertex> graph;
-    vector<vertex> compl_graph;
-    for (int i = 0; i < n; ++i) {
-        graph.push_back({i + 1});
-        compl_graph.push_back({i + 1});
-    }
-
-    while (m--) {
+    while(m--){
         cin >> u >> v;
-        graph[u - 1].adjacent_vertices.push_back(v);
-        compl_graph[v - 1].adjacent_vertices.push_back(u);
+        graph[u].push_back(v);
+        c_graph[v].push_back(u);
+    }
+    for(ui i = 1; i <= n; ++i){
+        if(!visited[i])
+            dfs(i);
+    }
+    ui cur_scc = 1;
+
+    //find sccs and save to which scc a node belongs
+    while(!st.empty()){
+        if(visited[st.top()]) {
+            dfs_c(st.top(), cur_scc);
+            cur_scc++;
+        }
+        st.pop();
     }
 
-    stack<ui> traversal_stack;
-    depthFirstSearch(graph, traversal_stack);
-
-    vector<set<ui>> sccs;
-    while (!traversal_stack.empty()) {
-        ui current = traversal_stack.top();
-        traversal_stack.pop();
-        set<ui> scc;
-        if(compl_graph[current-1].visited == -1) {
-            reachability(compl_graph, current, scc);
-            //with scc found check the in-degree for the scc. If in-degree is zero and its the only scc with this in-degree its possible scc
-            //if two sccs have in-degree 0 both of them cant be the capital city
-            if(scc.size() > 1){
-                int in_degree = 0;
-                set<ui> ingoing_connections;
-                for(auto element : scc){
-                    for(auto in_going : graph[element - 1].adjacent_vertices){
-                        ingoing_connections.insert(in_going);
-                    }
-                }
-                in_degree = ingoing_connections.size();
-                if(in_degree == 0) {
-                    sccs.push_back(scc);
-                }
+    //calculate the in degree for each scc
+    for(ui i = 1; i <= n; ++i){
+        for(auto adj : graph[i]){
+            if(scc[i] != scc[adj]){
+                in_deg[scc[i]]++;
             }
         }
     }
-
-    if(sccs.size() == 1) {
-        cout << sccs.size() << "\n";
-        for (auto element : sccs.front()) {
-            cout << element << " ";
-        }
-        cout << "\n";
-    } else {
-        cout  << "0\n";
+    //calculate how many sccs hav an in_degree of 0
+    ui num = 0;
+    for(ui i = 1; i < cur_scc; ++i){
+        if(in_deg[i] == 0)
+            num++;
     }
+    if(num > 1)
+        cout << "0\n";
+    else{
+        set<ui> sol;
+        for(ui i = 1; i <= n; ++i){
+            if(in_deg[scc[i]] == 0)
+                sol.insert(i);
+        }
+        cout << sol.size() << "\n";
+        for(auto n : sol)
+            cout << n << " ";
+        cout << "\n";
+    }
+
     return 0;
 }

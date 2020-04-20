@@ -3,4 +3,4 @@ project(15609)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ALLIZWELL main.cpp)
+add_executable(ADARAIN main.cpp)
